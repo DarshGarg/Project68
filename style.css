@@ -1,0 +1,15 @@
+.annoucement {
+    background-color: dodgerblue;
+    color: floralwhite;
+    font-size: 15px;
+}
+
+#video {
+    width: 1263px;
+    height: 842px;
+}
+
+#map iframe {
+    width: 500px;
+    height: 450px; 
+}
